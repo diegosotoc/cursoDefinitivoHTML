@@ -1,0 +1,12 @@
+/* Selector por HTML */
+p{
+  color: burlywood;
+}
+/* Selector por Clase */
+.parrafoClass{
+  color: aqua;
+}
+/* Selector por ID */
+#parrafoID{
+  color: blueviolet;
+}
